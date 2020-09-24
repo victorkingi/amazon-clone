@@ -1,3 +1,8 @@
+## Amazon-clone using React Framework
+
+This is a web app the same as amazon (E-Commerce app).
+The demo website is [here](https://clone-4fa82.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
